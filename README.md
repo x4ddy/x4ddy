@@ -44,12 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/x4ddy/x4ddy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">I code occasionally🧋</p>
 
 ###

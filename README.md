@@ -45,6 +45,5 @@
 ###
 
 <p align="left">I code occasionally🧋</p>
-<a href="https://leetcode.com/x4ddy/" target="_blank"> <img src="https://leetcard.jacoblin.cool/x4ddy?theme=dark&font=Baumans" height="175" alt="LeetCode Stats" /> </a>
 
 ###
